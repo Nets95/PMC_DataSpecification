@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\bin\Debug\Containers.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\bin\Debug\Containers.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\bin\Debug\Matrices.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\bin\Debug\Matrices.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\obj\Debug\Containers.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\obj\Debug\Containers.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\obj\Debug\Containers.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\bin\Debug\Points.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\bin\Debug\Positions.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\bin\Debug\Points.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Containers\bin\Debug\Positions.pdb

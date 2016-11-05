@@ -1,0 +1,5 @@
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Point\bin\Debug\Point.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Point\bin\Debug\Point.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Point\obj\Debug\Point.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Point\obj\Debug\Point.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache

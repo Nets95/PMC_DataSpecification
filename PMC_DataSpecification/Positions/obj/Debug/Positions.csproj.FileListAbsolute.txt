@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Positions\obj\Debug\Positions.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Positions\bin\Debug\Positions.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Positions\bin\Debug\Positions.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Positions\bin\Debug\Points.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Positions\bin\Debug\Points.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Positions\obj\Debug\Positions.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Positions\obj\Debug\Positions.pdb

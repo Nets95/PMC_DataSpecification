@@ -1,0 +1,4 @@
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Points\bin\Debug\Points.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Points\bin\Debug\Points.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Points\obj\Debug\Points.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\Points\obj\Debug\Points.pdb

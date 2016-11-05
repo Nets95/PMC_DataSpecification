@@ -1,0 +1,17 @@
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\Containers.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\ContainersContainer.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\Matrices.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\Points.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\Positions.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\ContainersContainer.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\Containers.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\Matrices.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\Points.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\Positions.pdb
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\John\Desktop\Laba.Net\PMC_DataSpecification\UnitTests\obj\Debug\UnitTests.pdb
